@@ -1,5 +1,8 @@
 # terminal-toys
 
+## License
+This project is licensed under the Do What The Fuck You Want To Public License (WTFPL) — see the LICENSE file for details.
+
 collection another fun and beautiful effect for terminal on linux.
 
 ## project tree
